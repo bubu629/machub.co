@@ -11,7 +11,8 @@ machub.co
 > * **国行设备满血兼容**：中国大陆版 (`CH/A`) Mac mini 在加拿大接入原生网络后，运行 Claude、ChatGPT、Cursor、Docker 及本地大模型与北美版 **100% 一致，无任何限制**。
 > * **极高性价比**：国内二手/补贴后的 M4 硬件成本极低，托管月费仅需整机租赁价格的一半，不到一年即可省出一台主机钱，且硬件产权始终归您所有。
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 💰 资费标准 (Pricing)
 
@@ -28,6 +29,8 @@ machub.co
 * **外置高速存储挂载**：如需扩容，机房可提供本地 NAS 挂载或外置雷电/USB4 NVMe SSD 租赁（详询客服）。
 
 ---
+有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 📦 跨国邮寄与清关规则（必读！）
 
@@ -43,7 +46,8 @@ machub.co
   若您自行使用 DHL / FedEx / UPS / 顺丰国际直寄加拿大，下单时请务必勾选 **DDP（Delivered Duty Paid，关税及税费由寄件人支付）**。
   * *注：若使用 EMS 或未开启 DDP 的商业快递，您必须在发货前向我司预存 **$100 USD 清关代缴押金**（快递出税单后凭官方账单截图实报实销，多退少补）。**任何未提前报备且未交押金的“到付运费/到付税费”包裹，机房将一律直接拒收退回！***
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 🛠️ 寄件前设备准备清单 (Pre-Shipping Checklist)
 
@@ -71,7 +75,8 @@ machub.co
 3. **机房签收与上架**：包裹送达加拿大机房后，工程师将在 **24 小时内** 完成拆包验机、插接 4K 显卡欺骗器、配置防休眠/来电自启策略并接入千兆内网。
 4. **交付使用**：客服向您发送 SSH 端口、VNC/RustDesk 远控凭证及初始密码。您拿到完整 Root/Admin 权限后即可自行修改密码，开始 7×24 小时畅快使用！
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 📜 产权保障与退仓条款 (Terms of Service)
 
@@ -79,13 +84,15 @@ machub.co
 * **硬件自然损坏免责**：机房提供工业级稳压电源与恒温散热环境，但不对二手设备自身的硬件暗病、SSD 寿命耗尽或主板自然老化承担保修责任（如需寄送至加拿大本地 Apple Store 官方维修，机房可提供有偿代跑腿服务）。
 * **账单逾期与弃机处理**：请于账单到期前完成续费。逾期 **7 天** 未续费设备将暂停网络端口；逾期超过 **30 天** 未续费且失联，将视为客户自动放弃该硬件所有权，机房有权直接抹盘并将设备清退处置以抵扣机位占用成本。
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 📞 立即预约机位 (Contact Us)
 
 机房机位与电力配额有限，发货前请务必先联系我们确认档期与收件信息：
 
 * 🌐 **官方网站**：[https://machub.co](https://machub.co)
-* 💬 **WhatsApp 在线支持**：`+1 (705) 280-7570`
+有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 * 📧 **工单与商务咨询**：请通过官网或提交 GitHub Issue 联系我们
 *
